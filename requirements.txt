@@ -1,0 +1,8 @@
+flask
+transformers
+nltk
+networkx
+scikit-learn
+whisper
+torch
+torchaudio
